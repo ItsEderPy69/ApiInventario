@@ -3,7 +3,7 @@ Api en .Net 10 y SQL SERVER
 
 ## Configuracion y ejecucion
 
-ejecutar Database/01_crear_base.sql en la bd a usar:
+ejecutar Database/01_crear_base.sql en la instancia a usar:
 
 Ejecutar la API, apuntando a la bd creada:
 
